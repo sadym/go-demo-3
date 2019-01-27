@@ -3,6 +3,7 @@ dbReplicaCount: 3
 image:
   tag: latest
   dbTag: 3.3
+  registry_user: vfarcic
 ingress:
   enabled: true
   host: acme.com
